@@ -1,0 +1,14 @@
+c:\users\kurulo\source\repos\TestParseAP\TestParseAP\bin\Debug\TestParseAP.exe.config
+c:\users\kurulo\source\repos\TestParseAP\TestParseAP\bin\Debug\TestParseAP.exe
+c:\users\kurulo\source\repos\TestParseAP\TestParseAP\bin\Debug\TestParseAP.pdb
+c:\users\kurulo\source\repos\TestParseAP\TestParseAP\bin\Debug\HtmlAgilityPack.dll
+c:\users\kurulo\source\repos\TestParseAP\TestParseAP\bin\Debug\HtmlAgilityPack.pdb
+c:\users\kurulo\source\repos\TestParseAP\TestParseAP\bin\Debug\HtmlAgilityPack.xml
+c:\users\kurulo\source\repos\TestParseAP\TestParseAP\obj\Debug\TestParseAP.csproj.CoreCompileInputs.cache
+c:\users\kurulo\source\repos\TestParseAP\TestParseAP\obj\Debug\TestParseAP.csproj.CopyComplete
+c:\users\kurulo\source\repos\TestParseAP\TestParseAP\obj\Debug\TestParseAP.exe
+c:\users\kurulo\source\repos\TestParseAP\TestParseAP\obj\Debug\TestParseAP.pdb
+c:\users\kurulo\source\repos\TestParseAP\TestParseAP\bin\Debug\Newtonsoft.Json.dll
+c:\users\kurulo\source\repos\TestParseAP\TestParseAP\bin\Debug\Newtonsoft.Json.xml
+c:\users\kurulo\source\repos\TestParseAP\TestParseAP\obj\Debug\TestParseAP.csproj.ResolveComReference.cache
+C:\Users\kurulo\source\repos\TestParseAP\TestParseAP\obj\Debug\TestParseAP.csprojAssemblyReference.cache
